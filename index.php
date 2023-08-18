@@ -12,7 +12,7 @@
 
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
-    <link rel='stylesheet' href='assets/css/style.css?v1' type='text/css' media='all' data-skrollr-stylesheet />
+    <link rel='stylesheet' href='assets/css/style.css?v1' type='text/css' media='all'>
 
 
     <!-- Google tag (gtag.js) -->
